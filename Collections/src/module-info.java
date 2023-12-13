@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author shashoky
+ *
+ */
+module Collections {
+}
